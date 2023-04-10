@@ -4,17 +4,8 @@ Basic hypercasual game with basic touch controlls. In this project, i mainly foc
 
 
 
-<table>
- <tr>
-  <td>
-   <video width="200" height="200" controls>
-    <source src ="https://user-images.githubusercontent.com/112391850/230893311-347ce54c-b732-4bf9-a9f5-b42823a380e5.mp4">
-   </video>
-  </td>
-  <td>
-   <video width="200" height="200" controls>
-    <source src= "https://user-images.githubusercontent.com/112391850/230893996-0a048089-a96e-4415-851d-0eb3805cae2f.mp4">
-   </video>
-  </td>
- </tr>
-</table>
+https://user-images.githubusercontent.com/112391850/230895633-4d85330d-9cee-4311-9f41-9a0d4b140747.mp4
+https://user-images.githubusercontent.com/112391850/230893996-0a048089-a96e-4415-851d-0eb3805cae2f.mp4
+
+
+
